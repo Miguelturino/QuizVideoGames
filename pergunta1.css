@@ -38,7 +38,7 @@ body {
     color: var(--cor-do-titulo);
     font-size: 50px;
     text-align: end;
-    margin-top: 2em;
+    margin-top: 0.1em;
 }
 
 .pergunta__alternativa:hover {
